@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="571aea6d-ed2e-4cf8-ad1b-cac535ba3e4f" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+    <list default="true" id="571aea6d-ed2e-4cf8-ad1b-cac535ba3e4f" name="Changes" comment="bubble sort">
+      <change afterPath="$PROJECT_DIR$/src/StringSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringSorting">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="Sorting" />
@@ -47,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringSorting" />
+      <module name="Sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSorting" />
         <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
@@ -69,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670754270240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bubble sort">
+      <created>1670754977188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670754977188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="bubble sort" />
   </component>
 </project>
