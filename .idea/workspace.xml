@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="571aea6d-ed2e-4cf8-ad1b-cac535ba3e4f" name="Changes" comment="selection sort">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+    <list default="true" id="571aea6d-ed2e-4cf8-ad1b-cac535ba3e4f" name="Changes" comment="insertion sort">
+      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InsertionSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="Sorting" />
@@ -48,6 +48,13 @@
     </configuration>
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+      <module name="Sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
       <module name="Sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.StringSorting" />
@@ -113,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670757401691</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="insertion sort">
+      <created>1670817471387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670817471387</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +148,7 @@
     <MESSAGE value="string sorting using bubble sort" />
     <MESSAGE value="aselection sort" />
     <MESSAGE value="selection sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="selection sort" />
+    <MESSAGE value="insertion sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="insertion sort" />
   </component>
 </project>
